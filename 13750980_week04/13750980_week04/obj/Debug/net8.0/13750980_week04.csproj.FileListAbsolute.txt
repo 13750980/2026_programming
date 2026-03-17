@@ -1,0 +1,14 @@
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\bin\Debug\net8.0\13750980_week04.exe
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\bin\Debug\net8.0\13750980_week04.deps.json
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\bin\Debug\net8.0\13750980_week04.runtimeconfig.json
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\bin\Debug\net8.0\13750980_week04.dll
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\bin\Debug\net8.0\13750980_week04.pdb
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.AssemblyInfoInputs.cache
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.AssemblyInfo.cs
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.csproj.CoreCompileInputs.cache
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.dll
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\refint\13750980_week04.dll
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.pdb
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\13750980_week04.genruntimeconfig.cache
+C:\Users\yanwe\OneDrive\Desktop\13750980_week04\13750980_week04\obj\Debug\net8.0\ref\13750980_week04.dll
